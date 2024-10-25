@@ -20,17 +20,6 @@ Working on a SaaS startup that automates employee scheduling.
 Automated scheduling platform that helps businesses manage their workforce efficiently.
 [In Development]
 
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 23 mins  ███████████░░░░  68.42%
-JavaScript   2 hrs 12 mins   ██░░░░░░░░░░░░░  12.21%
-JSON         1 hr 44 mins    █░░░░░░░░░░░░░░   9.61%
-Other        1 hr 46 mins    █░░░░░░░░░░░░░░   9.76%
-```
-<!--END_SECTION:waka-->
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/oskar-mieloch-475486323/) • 
