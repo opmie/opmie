@@ -15,13 +15,7 @@ Working on a SaaS startup that automates employee scheduling.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## Analytics
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opmie&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opmie&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
+## Contact
 
 [LinkedIn](https://linkedin.com/in/oskar-mieloch-475486323/) • 
 
