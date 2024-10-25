@@ -29,6 +29,6 @@ Automated scheduling platform that helps businesses manage their workforce effic
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=oskarmp&color=grey&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=opmie&color=grey&style=flat-square)
 
 </div>
