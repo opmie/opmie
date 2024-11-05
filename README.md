@@ -1,6 +1,6 @@
 # Oskar Mieloch
 
-I'm a 17 year old aspiring software engineer and entrepreneur. I like building tools that have an actual meaning and impact people around the world. Studying software engineering at UCONN currently.
+I'm a 18 year old aspiring software engineer and entrepreneur. I like building tools that have an actual meaning and impact people around the world. Studying software engineering at UCONN currently.
 
 ## Current Focus
 ```
